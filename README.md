@@ -27,7 +27,13 @@ I am a Front-end programmer with experience in HTML5, CSS3, JavaScript and VueJs
 - JavaScript (ES6+)
 - Frameworks Vue.js - Pinia - Vuex
 - Responsive Web Design
-- Versionamento de Código (Git)
+- Code versioning (Git)
+
+<div>
+<a href="https://github.com/Edmitsu">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmitsu&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Edmitsu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Work Experience
 
