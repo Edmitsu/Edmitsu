@@ -6,6 +6,18 @@ Hey! 👋 i'm Edmilson, a Front-end Developer. Welcome to my profile!
 
 I am a Front-end programmer with experience in HTML5, CSS3, JavaScript and VueJs, proficient in translating concepts into functional code. I have skills in creating interactive and responsive user interfaces, optimized for high performance. I collaborate effectively with development teams to deliver high-quality solutions. I am passionate about learning new technologies and applying them to projects.
 
+## Tools and Technologies
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Icon"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS Icon"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript Icon"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="VueJs Icon"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GIT Icon"/>       
+          
 ## Skills
 
 - HTML5, CSS3
@@ -26,9 +38,9 @@ JavaScript · CSS · Vue.js · Interface de programação de aplicativos (API) �
 
 ## Education
 
-- **Bacharel em Sistemas de Informação** - FAM Centro Universitário das Américas - 2023
+- **Bachelor of Information Systems** - FAM Centro Universitário das Américas - 2023
 
-## Contact
+## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/edmilson-barcauscas-junior/
 - GitHub: https://github.com/Edmitsu
