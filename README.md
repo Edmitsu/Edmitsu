@@ -59,5 +59,4 @@ JavaScript · CSS · Vue.js · Interface de programação de aplicativos (API) �
 
 I'm always open to new connections and collaboration opportunities. If you'd like to discuss projects, share ideas, or simply have a conversation about the world of technology, please don't hesitate to get in touch. Together, we can create amazing solutions and drive innovations.
 
-<img src"https://tenor.com/bzuFq.gif">
- 
+<div class="tenor-gif-embed" data-postid="20813354" data-share-method="host" data-aspect-ratio="2" data-width="100%"><a href="https://tenor.com/view/hello-there-gif-20813354">Hello There GIF</a>from <a href="https://tenor.com/search/hello+there-gifs">Hello There GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
