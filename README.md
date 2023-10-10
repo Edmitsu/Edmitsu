@@ -59,5 +59,5 @@ JavaScript · CSS · Vue.js · Interface de programação de aplicativos (API) �
 
 I'm always open to new connections and collaboration opportunities. If you'd like to discuss projects, share ideas, or simply have a conversation about the world of technology, please don't hesitate to get in touch. Together, we can create amazing solutions and drive innovations.
 
-<img src"https://tenor.com/bzuFq.gif"/>
+<img src"https://tenor.com/bzuFq.gif">
  
