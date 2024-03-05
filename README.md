@@ -33,6 +33,8 @@ I am a Front-end programmer with experience in HTML5, CSS3, JavaScript and VueJs
 - JavaScript (ES6+)
 - Frameworks Vue.js - Pinia - Vuex
 - Responsive Web Design
+- NodeJs
+- TypeScript
 - Code versioning (Git)
 
 <div>
