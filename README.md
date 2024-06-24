@@ -1,10 +1,10 @@
 # Edmilson - Front-end Developer
 
-Hey! 👋 i'm Edmilson, a Front-end Developer. Welcome to my profile!
+Hey! 👋 i'm Edmilson, a Web Developer. Welcome to my profile!
 
 ## About me
 
-I am a Front-end programmer with experience in HTML5, CSS3, JavaScript and VueJs, proficient in translating concepts into functional code. I have skills in creating interactive and responsive user interfaces, optimized for high performance. I collaborate effectively with development teams to deliver high-quality solutions. I am passionate about learning new technologies and applying them to projects.
+I am a Web programmer proficient in translating concepts into functional code. I have skills in creating interactive and responsive user interfaces, optimized for high performance. I collaborate effectively with development teams to deliver high-quality solutions. I am passionate about learning new technologies and applying them to projects.
 
 ## Tools and Technologies
 
@@ -23,6 +23,9 @@ I am a Front-end programmer with experience in HTML5, CSS3, JavaScript and VueJs
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs Icon" width="40" height="40"/>
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  alt="Typescript Icon" width="40" height="40"/>
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Typescript Icon" width="40" height="40"/>
+          
           
           
 </div>
@@ -31,7 +34,8 @@ I am a Front-end programmer with experience in HTML5, CSS3, JavaScript and VueJs
 
 - HTML5, CSS3
 - JavaScript (ES6+)
-- Frameworks Vue.js - Pinia - Vuex
+- Java
+- Frameworks Vue.js - Pinia - Vuex - SpringBoot
 - Responsive Web Design
 - NodeJs
 - TypeScript
