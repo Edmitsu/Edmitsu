@@ -51,7 +51,7 @@ I am a Web programmer proficient in translating concepts into functional code. I
 
 ### Konecta Brasil - 7 months
 
-As a Front-end Developer at Konecta, I played a significant role in the development of the web system, primarily using HTML, CSS, JavaScript, and Vue.js. My responsibilities included creating and maintaining interactive user interfaces, as well as API integrations and parameterization, enhancing my technical skills and contributing to the development team.
+As a Web Developer at Konecta, I played a significant role in the development of the web system, primarily using HTML, CSS, JavaScript, and Vue.js. My responsibilities included creating and maintaining interactive user interfaces, as well as API integrations and parameterization, enhancing my technical skills and contributing to the development team.
 
 ### Okn - 1 year and 2 months
 
